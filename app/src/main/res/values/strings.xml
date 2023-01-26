@@ -1,12 +1,7 @@
 <resources>
-    <string name="app_name">Tip calculator</string>
-    <string name="cost_of_service">Cost of Service</string>
-    <string name="how_was_your_service">How was your service?</string>
-    <string name="excellent">Excellent (20%)</string>
-    <string name="good">Good (18%)</string>
-    <string name="okay">Okay (15%)</string>
-    <string name="round_up_tip">Round up tip?</string>
-    <string name="calculate">Calculate</string>
-    <string name="tip_amount">Tip amount</string>
-    <string name="tip_amount_result">Tip amount: %s</string>
+    <string name="app_name">TipTime</string>
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
 </resources>
